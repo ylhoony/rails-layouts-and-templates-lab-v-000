@@ -1,4 +1,4 @@
-class StaticController < ApplicationControllder
+class StaticController < AApplicationController
 
   def home
 
